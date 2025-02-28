@@ -1,3 +1,3 @@
-# week1
-This is a week one starter code 
-Please write your name and ID here and push it to GitHub.
+# week1 
+Beraat Yıldız
+210717022
